@@ -1,0 +1,108 @@
+main,
+footer {
+    display: flex;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+    background-color: bisque;
+    font-weight: bold;
+}
+
+main {
+    height: 35vh;
+}
+
+.main-conteiner {
+    width: 65%;
+    background-color: lightyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 10px;
+    gap: 15px;
+}
+
+.article1 {
+    padding: 25px 50px;
+    background-color: lightsalmon;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.article2 {
+    padding: 25px 50px;
+    background-color: lightsalmon;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.conteiner_article {
+    background-color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+
+.aside {
+    width: 35%;
+    background-color: lightgreen;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: firebrick;
+}
+
+.footer1 {
+    padding: 25px 50px;
+    background-color: lightsalmon;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.footer2 {
+    display: flex;
+    padding: 25px 50px;
+    background-color: lightsalmon;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer3 {
+    padding: 25px 50px;
+    background-color: lightsalmon;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer4 {
+    padding: 25px 50px;
+    background-color: lightsalmon;
+    text-align: center;
+    font-weight: bold;
+}
+
+.row3 {
+    padding: 25px 50px;
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+}
